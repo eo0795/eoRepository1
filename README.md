@@ -1,4 +1,4 @@
-# A Simple Heads or tales program
+# A Simple Heads or Tales program
 
 ## This is my first published project using the C++ programming language
 
