@@ -1,10 +1,10 @@
-#A Simple Heads or tales program
+# A Simple Heads or tales program
 
-##This is my first published project using the C++ programming language
+## This is my first published project using the C++ programming language
 
-###The program contains the use of...
+### The program contains the use of...
 
--function with a conditional statement
--it reads from the user
--uses 2 functions of the cstdlib and ctime headers
--uses a for loop
+- Function with a conditional statement
+- It reads from the user
+- Uses 2 functions of the cstdlib and ctime headers
+- Uses a for loop
